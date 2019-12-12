@@ -111,6 +111,9 @@ The ESP-IDF Programming Guide showed us how to set up the ESP-IDF on our laptop 
 We used it both for starting the ESP-IDF and as a reference for our installation instructions.
 Link: [https://docs.espressif.com/projects/esp-idf/en/latest/get-started/index.html#get-started-get-esp-idf](https://docs.espressif.com/projects/esp-idf/en/latest/get-started/index.html#get-started-get-esp-idf)
 
+## Contribute
+If you want to contribute to the research-graph repository, please first read the Contributing Guidelines in the [Contributing](CONTRIBUTING.md) file.
+
 ## License
 Copyright [2019] [Fiona Guerin]
 
