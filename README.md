@@ -1,6 +1,22 @@
 # ProgrammableWorld
 Networked Dynamic Execution Environment for Microcontrollers
 
+## Motivation
+Appliances in a pervasive network orchestrate each other's services. 
+In other words, they offer services to each other and they consume services from each other. 
+Service orchestration is usually static, i.e. dedicated clients send fixed formatted requests to a dedicated server and 
+the server also responds in a fixed format. 
+However, the devices in a pervasive network are peer-to-peer, often heterogeneous, and sometimes only temporarily available. 
+So there can be no dedicated server in such a network, but the devices have to communicate directly with each other 
+and adapt their services to each other. 
+
+Microcontrollers run many applications that surround us today, such as cars or smart watches. 
+Research and industry have greatly improved the capacities of microcontrollers in recent years. 
+For example, they contain several 32-bit processor cores, network capacities such as WiFi and Bluetooth, and they cost on average only $3. 
+Contrary to this high performance, we often only use microcontrollers to execute a fixed and burnt-in logic. 
+Instead, Programmable World uses the new capacities of microcontrollers, especially their two network capacities WiFi and Bluetooth. 
+In other words, we make microcontrollers the nodes in our network that communicate with each other and adapt their services to each other. 
+
 ## Installation
 To install ProgrammableWorld, please first install the ESP-IDF. 
 ### Step 1: Install ESP-IDF
