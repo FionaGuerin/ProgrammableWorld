@@ -25,6 +25,12 @@ Contrary to this high performance, we often only use microcontrollers to execute
 Instead, Programmable World uses the new capacities of microcontrollers, especially their two network capacities WiFi and Bluetooth. 
 In other words, we make microcontrollers the nodes in our network that communicate with each other and adapt their services to each other. 
 
+## Technology
+### ESP-IDF
+The ESP-IDF is the IOT Development Framework that the Chinese semiconductor company Espressif Systems has developed for its ESP32 microcontroller. 
+It is a toolchain for building ESP32 applications. 
+In particular, the ESP-IDF contains an ESP32 API and scripts to run the toolchain. 
+
 ## Installation
 To install ProgrammableWorld, please first install the ESP-IDF. 
 ### Step 1: Install ESP-IDF
