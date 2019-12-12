@@ -110,3 +110,16 @@ please refer to the [ESP-IDF Programming Guide](https://docs.espressif.com/proje
 The ESP-IDF Programming Guide showed us how to set up the ESP-IDF on our laptop and use it for an ESP32. 
 We used it both for starting the ESP-IDF and as a reference for our installation instructions.
 Link: [https://docs.espressif.com/projects/esp-idf/en/latest/get-started/index.html#get-started-get-esp-idf](https://docs.espressif.com/projects/esp-idf/en/latest/get-started/index.html#get-started-get-esp-idf)
+
+## License
+Copyright [2019] [Fiona Guerin]
+
+Licensed under the Apache License, Version 2.0 (the "License"); 
+you may not use this file except in compliance with the License. 
+You may obtain a copy of the License at
+
+http://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on 
+an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. 
+See the License for the specific language governing permissions and limitations under the License.
