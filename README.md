@@ -1,5 +1,13 @@
 # ProgrammableWorld
-Networked Dynamic Execution Environment for Microcontrollers
+To provide dynamic services, an appliance must execute scripts. 
+For this, it contains an execution environment. 
+The execution environment consists of a loader and a runtime environment. 
+The loader receives scripts, decides on their admission and, if applicable, forwards them to the runtime environment. 
+The runtime environment executes the scripts and accesses their hardware and software resources. 
+Specifically, the runtime has the resources sensors, actuators, local data storage, and networking.
+It makes these resources available to the script via well-defined interfaces.
+![](doc/img/img_1.png)
+
 
 ## Motivation
 Appliances in a pervasive network orchestrate each other's services. 
